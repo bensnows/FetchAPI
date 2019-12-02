@@ -66,3 +66,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+Some test:
+
+Promise 會將資訊包裝後再傳遞，只有在promise.then(response =>{//do something})的結構內，才會進入深層資料區
+
+
