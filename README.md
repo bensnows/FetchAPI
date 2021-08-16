@@ -72,3 +72,6 @@ Some test:
 Promise 會將資訊包裝後再傳遞，只有在promise.then(response =>{//do something})的結構內，才會進入深層資料區
 
 
+```javascript
+const hello ="hello";
+```
